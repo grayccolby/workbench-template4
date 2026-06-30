@@ -1,5 +1,5 @@
 ---
-title: "Second Introduction2"
+title: "Second Introductions"
 teaching: 10
 exercises: 2
 ---
