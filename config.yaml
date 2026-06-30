@@ -69,6 +69,7 @@ contact: 'team@carpentries.org' # FIXME
 episodes: 
 - introduction.md
 - secondintroduction.md
+- secondintroduction2.md
 
 # Information for Learners
 learners: 
