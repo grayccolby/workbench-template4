@@ -54,4 +54,4 @@ Use Terminal
 
 ## The beginning
 
-Use PuTTY
+Use PuTTY this next time you want to do this
