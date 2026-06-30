@@ -1,4 +1,3 @@
-
 ---
 title: "Second Introduction"
 teaching: 10
