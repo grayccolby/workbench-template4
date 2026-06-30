@@ -53,3 +53,5 @@ Use Terminal
 ::::::::::::::::::::::::
 
 ## The beginning
+
+Use PuTTY
