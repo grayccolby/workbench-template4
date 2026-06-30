@@ -70,6 +70,9 @@
     <loc>https://carpentries.github.io/workbench-template-md/instructor/secondintroduction2.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/secondintroductions.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor-notes.html</loc>
   </url>
   <url>
@@ -89,5 +92,8 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/secondintroduction2.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/secondintroductions.html</loc>
   </url>
 </urlset>
